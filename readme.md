@@ -4,8 +4,5 @@ A simple nodejs application for shrinking images using multer and sharp
 
 Use it with Postman
 
-<img
-  src="/TinyCompressor/photo1.PNG"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+![photo1](https://github.com/Muhammadirees/TinyCompressor/assets/61000610/c1132f65-0c5d-4b63-9ad0-9270bf9dd6b5)
