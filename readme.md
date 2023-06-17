@@ -34,7 +34,6 @@ Feel free to experiment with different images and observe the reduction in file 
   src="/TinyCompressor/photo1.PNG"
   alt="Alt text"
   title="Optional title"![photo1](https://github.com/Muhammadirees/Nodejs-TinyCompressor/assets/61000610/c035f685-dc6b-488a-8b20-4b63c2a5ccc9)
-
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## Customization
