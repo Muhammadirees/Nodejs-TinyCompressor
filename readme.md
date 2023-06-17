@@ -30,11 +30,8 @@ Once the project is up and running, you can use the Postman to upload images for
 
 Feel free to experiment with different images and observe the reduction in file size achieved through compression.
 
-<img
-  src="/TinyCompressor/photo1.PNG"
-  alt="Alt text"
-  title="Optional title"![photo1](https://github.com/Muhammadirees/Nodejs-TinyCompressor/assets/61000610/c035f685-dc6b-488a-8b20-4b63c2a5ccc9)
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![photo1](https://github.com/Muhammadirees/Nodejs-TinyCompressor/assets/61000610/920af065-b462-4cd8-a744-53e4e67d8eb4)
+
 
 ## Customization
 
